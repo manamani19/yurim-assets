@@ -1,0 +1,18 @@
+{
+  "id": "theme3",
+  "name": "새 테마(그림 준비 중)",
+  "app_title": "유림 학급 경제",
+  "dir": "assets/themes/theme3/",
+  "gendered": false,
+  "placeholder": true,
+  "grades": [["1등급", "최상"], ["2등급", "상"], ["3등급", "상"], ["4등급", "중상"], ["5등급", "중"],
+             ["6등급", "중"], ["7등급", "중"], ["8등급", "중하"], ["9등급", "하"], ["10등급", "하"]],
+  "merit_stages": ["0단계", "1단계", "2단계", "3단계", "4단계", "5단계", "6단계", "7단계", "8단계", "9단계", "10단계"],
+  "merit_short": ["", "", "", "", "", "", "", "", "", "", ""],
+  "merit_art": [
+    {"frame": null, "fx": 0}, {"frame": null, "fx": 0}, {"frame": null, "fx": 0}, {"frame": null, "fx": 1}, {"frame": null, "fx": 1},
+    {"frame": null, "fx": 1}, {"frame": null, "fx": 2}, {"frame": null, "fx": 2}, {"frame": null, "fx": 3}, {"frame": null, "fx": 3}, {"frame": null, "fx": 4}
+  ],
+  "colors": {"primary": "#334155", "primary_ink": "#ffffff", "accent": "#6366f1", "bg": "#f4f5f8", "surface": "#ffffff", "card_bg": "#eceef4", "ink": "#0f172a"},
+  "files": {"char": "char_{gg}.webp", "thumb": "thumb/char_{gg}.webp", "card_back": "card_back.webp"}
+}

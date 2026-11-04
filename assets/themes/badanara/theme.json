@@ -1,0 +1,230 @@
+{
+ "id": "badanara",
+ "name": "바다나라",
+ "app_title": "바다나라 학급 경제",
+ "dir": "assets/themes/badanara/",
+ "gendered": false,
+ "grades": [
+  [
+   "황금고래",
+   "왕"
+  ],
+  [
+   "범고래",
+   "귀족"
+  ],
+  [
+   "상어",
+   "선장"
+  ],
+  [
+   "돌고래",
+   "부유한 상인"
+  ],
+  [
+   "바다거북",
+   "탐험가"
+  ],
+  [
+   "열대어",
+   "평민"
+  ],
+  [
+   "해마",
+   "평민"
+  ],
+  [
+   "불가사리",
+   "평민"
+  ],
+  [
+   "조개",
+   "어려움"
+  ],
+  [
+   "물방울",
+   "노력형"
+  ]
+ ],
+ "merit_stages": [
+  "기본",
+  "공기방울",
+  "별빛 I",
+  "별빛 · 발광입자",
+  "별빛 · 후광",
+  "골드",
+  "플래티넘",
+  "다이아몬드",
+  "마스터",
+  "그랜드마스터",
+  "챌린저"
+ ],
+ "merit_short": [
+  "",
+  "",
+  "",
+  "",
+  "",
+  "골드",
+  "플래티넘",
+  "다이아",
+  "마스터",
+  "그랜드마스터",
+  "챌린저"
+ ],
+ "merit_art": [
+  {
+   "layers": [],
+   "fx": 0,
+   "bg": "bg_sea0.webp",
+   "pbg": "bg_sea0.webp"
+  },
+  {
+   "layers": [],
+   "fx": 1,
+   "bg": "bg_sea0.webp",
+   "pbg": "bg_sea0.webp"
+  },
+  {
+   "layers": [],
+   "fx": 1,
+   "bg": "bg_sea0.webp",
+   "pbg": "bg_sea0.webp"
+  },
+  {
+   "layers": [],
+   "fx": 2,
+   "bg": "bg_sea0.webp",
+   "pbg": "bg_sea0.webp"
+  },
+  {
+   "layers": [],
+   "fx": 2,
+   "bg": "bg_sea0.webp",
+   "pbg": "bg_sea0.webp"
+  },
+  {
+   "layers": [
+    "frame_05.webp"
+   ],
+   "fx": 2,
+   "box": [
+    125.4,
+    128.7,
+    49.94,
+    48.03
+   ],
+   "bg": null,
+   "masks": {
+    "gems": "gems_05.webp"
+   }
+  },
+  {
+   "layers": [
+    "frame_06.webp"
+   ],
+   "fx": 3,
+   "box": [
+    132.2,
+    132.9,
+    49.93,
+    48.39
+   ],
+   "bg": null,
+   "masks": {
+    "gems": "gems_06.webp"
+   }
+  },
+  {
+   "layers": [
+    "frame_07.webp"
+   ],
+   "fx": 3,
+   "box": [
+    131.9,
+    138.9,
+    50.07,
+    51.46
+   ],
+   "bg": null,
+   "masks": {
+    "gems": "gems_07.webp"
+   }
+  },
+  {
+   "layers": [
+    "frame_08.webp"
+   ],
+   "fx": 3,
+   "box": [
+    150.1,
+    152.1,
+    50,
+    47.08
+   ],
+   "bg": "aurora.webp",
+   "masks": {
+    "gems": "gems_08.webp"
+   }
+  },
+  {
+   "layers": [
+    "frame_09.webp"
+   ],
+   "fx": 4,
+   "box": [
+    158.4,
+    167.7,
+    49.92,
+    44.96
+   ],
+   "bg": "bg_09.webp",
+   "masks": {
+    "gems": "gems_09.webp",
+    "burn_top": "burn_09_top.webp",
+    "burn_bot": "burn_09_bot.webp"
+   }
+  },
+  {
+   "layers": [
+    "frame_10.webp"
+   ],
+   "fx": 4,
+   "box": [
+    180.2,
+    189.6,
+    49.47,
+    55.32
+   ],
+   "bg": "bg_10.webp",
+   "masks": {
+    "gems": "gems_10.webp",
+    "wings": "wings_10.webp"
+   }
+  }
+ ],
+ "colors": {
+  "primary": "#075985",
+  "primary_ink": "#ffffff",
+  "accent": "#0ea5e9",
+  "bg": "#eef6fb",
+  "surface": "#ffffff",
+  "card_bg": "#dff1fb",
+  "ink": "#0f172a"
+ },
+ "files": {
+  "char": "char_{gg}.webp",
+  "thumb": "thumb/char_{gg}.webp",
+  "card_back": "card_back.webp",
+  "tall": {
+   "h3": "_h3",
+   "h4": "_h4"
+  },
+  "grade_emblems": "grade_emblems.webp",
+  "stage": "stage.webp",
+  "print_card": "print_card.webp"
+ },
+ "fx_set": "ocean-v015",
+ "card_face": "ocean",
+ "backdrop": "ocean"
+}

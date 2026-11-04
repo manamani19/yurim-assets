@@ -1,0 +1,355 @@
+{
+ "id": "yurim",
+ "name": "용사",
+ "app_title": "유림 학급 경제",
+ "dir": "assets/themes/yurim/",
+ "gendered": true,
+ "grades": [
+  [
+   "빛의 수호자",
+   "영웅"
+  ],
+  [
+   "전설",
+   "영웅"
+  ],
+  [
+   "영웅",
+   "영웅"
+  ],
+  [
+   "장군",
+   "지휘관"
+  ],
+  [
+   "기사단장",
+   "지휘관"
+  ],
+  [
+   "기사",
+   "모험가"
+  ],
+  [
+   "전사",
+   "모험가"
+  ],
+  [
+   "모험가",
+   "모험가"
+  ],
+  [
+   "견습생",
+   "여행자"
+  ],
+  [
+   "떠돌이",
+   "여행자"
+  ]
+ ],
+ "merit_stages": [
+  "새내기",
+  "훈장까지 2",
+  "훈장까지 1",
+  "동 훈장",
+  "동 훈장 ·",
+  "동 훈장 ··",
+  "은 훈장",
+  "은 훈장 ·",
+  "은 훈장 ··",
+  "금 훈장",
+  "금 훈장 · 최상위"
+ ],
+ "merit_short": [
+  "",
+  "",
+  "",
+  "동",
+  "동",
+  "동",
+  "은",
+  "은",
+  "은",
+  "금",
+  "금"
+ ],
+ "merit_art": [
+  {
+   "layers": [],
+   "medals": 0,
+   "fx": 0,
+   "bg": "bg_h0.webp",
+   "pbg": "bg_h0.webp"
+  },
+  {
+   "layers": [],
+   "medals": 0,
+   "fx": 0,
+   "bg": "bg_h0.webp",
+   "pbg": "bg_h0.webp"
+  },
+  {
+   "layers": [],
+   "medals": 0,
+   "fx": 0,
+   "bg": "bg_h0.webp",
+   "pbg": "bg_h0.webp"
+  },
+  {
+   "layers": [
+    "frame_2.webp"
+   ],
+   "medals": 1,
+   "fx": 1,
+   "bg": "bg_h3.webp",
+   "box": [
+    116,
+    125.3,
+    50,
+    50
+   ],
+   "pbg": "bg_h3.webp"
+  },
+  {
+   "layers": [
+    "frame_m04.webp"
+   ],
+   "medals": 1,
+   "fx": 1,
+   "bg": "bg_h3.webp",
+   "box": [
+    125.4,
+    119.0,
+    49.94,
+    48.51
+   ],
+   "pbg": "bg_h3.webp"
+  },
+  {
+   "layers": [
+    "frame_m05.webp"
+   ],
+   "medals": 1,
+   "fx": 1,
+   "bg": "bg_h3.webp",
+   "box": [
+    127.3,
+    132.6,
+    50.0,
+    48.17
+   ],
+   "lift": 9.7,
+   "pbg": "bg_h3.webp"
+  },
+  {
+   "layers": [
+    "frame_3.webp"
+   ],
+   "medals": 2,
+   "fx": 2,
+   "bg": "bg_h6.webp",
+   "box": [
+    116,
+    125.3,
+    50,
+    50
+   ],
+   "pbg": "bg_h6.webp"
+  },
+  {
+   "layers": [
+    "frame_m07.webp"
+   ],
+   "medals": 2,
+   "fx": 2,
+   "bg": "bg_h6.webp",
+   "box": [
+    118.6,
+    125.3,
+    50.0,
+    49.84
+   ],
+   "gems": [
+    [
+     8.8,
+     9.4
+    ],
+    [
+     91.2,
+     9.4
+    ],
+    [
+     7.1,
+     48.7
+    ],
+    [
+     92.9,
+     48.7
+    ],
+    [
+     9.0,
+     89.8
+    ],
+    [
+     91.0,
+     89.8
+    ],
+    [
+     50.0,
+     91.4
+    ]
+   ],
+   "pbg": "bg_h6.webp"
+  },
+  {
+   "layers": [
+    "frame_m08.webp"
+   ],
+   "medals": 2,
+   "fx": 2,
+   "bg": "bg_m08.webp",
+   "box": [
+    123.7,
+    128.8,
+    50.0,
+    49.1
+   ],
+   "gems": [
+    [
+     11.9,
+     12.4
+    ],
+    [
+     88.1,
+     12.4
+    ],
+    [
+     49.5,
+     10.2
+    ],
+    [
+     7.1,
+     47.9
+    ],
+    [
+     92.4,
+     47.9
+    ],
+    [
+     11.6,
+     90.0
+    ],
+    [
+     88.3,
+     90.0
+    ],
+    [
+     49.6,
+     92.0
+    ]
+   ],
+   "lift": 2.1,
+   "pbg": "bg_m08.webp"
+  },
+  {
+   "layers": [
+    "frame_4.webp"
+   ],
+   "medals": 3,
+   "fx": 3,
+   "bg": "bg_m09.webp",
+   "box": [
+    116,
+    125.3,
+    50,
+    50
+   ],
+   "pbg": "bg_m09.webp"
+  },
+  {
+   "layers": [
+    "frame_m10.webp"
+   ],
+   "medals": 3,
+   "fx": 4,
+   "bg": "bg_m10.webp",
+   "box": [
+    129.1,
+    145.7,
+    50.0,
+    48.95
+   ],
+   "gems": [
+    [
+     50.0,
+     10.6
+    ],
+    [
+     9.0,
+     19.8
+    ],
+    [
+     89.3,
+     19.8
+    ],
+    [
+     10.0,
+     48.6
+    ],
+    [
+     90.0,
+     48.6
+    ],
+    [
+     9.5,
+     85.1
+    ],
+    [
+     88.6,
+     85.1
+    ],
+    [
+     50.0,
+     85.9
+    ]
+   ],
+   "lift": 13.4,
+   "pbg": "bg_m10.webp"
+  }
+ ],
+ "colors": {
+  "primary": "#3f5f2a",
+  "primary_ink": "#ffffff",
+  "accent": "#c9952c",
+  "bg": "#f3f5ee",
+  "surface": "#ffffff",
+  "card_bg": "#eef1e4",
+  "ink": "#1f2a14"
+ },
+ "files": {
+  "char": "char_{gg}_{g}.webp",
+  "thumb": "thumb/char_{gg}_{g}.webp",
+  "card_back": "card_back.webp",
+  "medals": [
+   "medal_bronze.webp",
+   "medal_silver.webp",
+   "medal_gold.webp"
+  ],
+  "top_fx": "top_fx.webp",
+  "tall": {
+   "h3": "_h3",
+   "h4": "_h4"
+  },
+  "fx_img": {
+   "circle": "fx_circle.webp",
+   "wings": "fx_wings.webp",
+   "flame": "fx_flame.webp",
+   "emblem": "fx_emblem.webp"
+  },
+  "grade_emblems": "grade_emblems.webp",
+  "stage": "stage.webp",
+  "print_card": "print_card.webp"
+ },
+ "fx_set": "hero-v1",
+ "backdrop": "hero",
+ "card_face": "hero"
+}
