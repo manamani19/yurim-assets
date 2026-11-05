@@ -21767,8 +21767,8 @@
 },
 {
 "path": "assets/themes/yurim/frame_n07.webp",
-"bytes": 160444,
-"sha256": "66f4b3739ba2fa178aef67864bc94e208deb0e9fe33091973f91e4c8a8f3f781"
+"bytes": 148158,
+"sha256": "8f63314e73e3cfa2eb11727498fc438c3cadf0d5d793052e870bd8a318f78ee3"
 },
 {
 "path": "assets/themes/yurim/frame_n07_h3.webp",
@@ -21782,33 +21782,33 @@
 },
 {
 "path": "assets/themes/yurim/frame_n08.webp",
-"bytes": 160474,
-"sha256": "7281e7126a636f1d658cc500ab3c7aa0bf3bc6bab39865301d4e9fa3ff183a9c"
+"bytes": 157318,
+"sha256": "2685fb41e36115ef458e2ec22cf2130e11f1e20e9dee8a6edcdd835ac36c4273"
 },
 {
 "path": "assets/themes/yurim/frame_n08_h3.webp",
-"bytes": 182812,
-"sha256": "c3edd248a43e357afc0171cef0ff4de7a5123f111d2d0711434194f0e1a6bbee"
+"bytes": 170744,
+"sha256": "ad3aee2897feb413126f81dee5e4447b55eedcbb6e9410044a007813f6834476"
 },
 {
 "path": "assets/themes/yurim/frame_n08_h4.webp",
-"bytes": 183630,
-"sha256": "be4557b0e1293958901754134689909737e6792038e0b0a05765fdead9261160"
+"bytes": 170854,
+"sha256": "c38f488d29f93f18906cb929a5366b43ac4d8619f607f7921728ba2c7dfb8d15"
 },
 {
 "path": "assets/themes/yurim/frame_n10.webp",
-"bytes": 240902,
-"sha256": "722fb66b6d3dbaf6d2384871512b147d5ca941f7bdf76654d0a81232ee80e856"
+"bytes": 224056,
+"sha256": "411f36dad9fcc416e46b9223f05e1ecb6e26140eaa46f7736a48a67b307e1590"
 },
 {
 "path": "assets/themes/yurim/frame_n10_h3.webp",
-"bytes": 242822,
-"sha256": "8f42d9f44fc66f7cd1cba11595be1987a33a36847513cb337efbdbb2f0b33e02"
+"bytes": 225326,
+"sha256": "b13f21114fc339965368f57fcb48632e12f34bd860766372f5de29188bb94c7d"
 },
 {
 "path": "assets/themes/yurim/frame_n10_h4.webp",
-"bytes": 243854,
-"sha256": "54002e7fb374e9fa273f989985514971e6c2e1a75d1596ab63203fd3d404c199"
+"bytes": 225904,
+"sha256": "62ffbfd52081b58247901e7fd2ec933e8286f9b02aa1a129d39e97e52f1b5fe6"
 },
 {
 "path": "assets/themes/yurim/fx_circle.webp",
