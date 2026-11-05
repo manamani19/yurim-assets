@@ -21737,18 +21737,18 @@
 },
 {
 "path": "assets/themes/yurim/frame_m09.webp",
-"bytes": 182576,
-"sha256": "77437450ec139349dd0f7879c01507626134f4ccd0b04d950160ffdea46361e8"
+"bytes": 187780,
+"sha256": "88c193115f5f3d6e5604fb60efac3c4543ed2a0da0e18519cab69b6c55c39850"
 },
 {
 "path": "assets/themes/yurim/frame_m09_h3.webp",
-"bytes": 182278,
-"sha256": "59c6ec94e23db9c7012613f2cb5eb5dca972ae7bdff691a67b202755c0fb3848"
+"bytes": 188746,
+"sha256": "be49e9288c8a80b719dfa72c06c2e4a003aa0a4bf692a54ce9ca43ddf6229b8b"
 },
 {
 "path": "assets/themes/yurim/frame_m09_h4.webp",
-"bytes": 182790,
-"sha256": "490ab7800141fda61c8e9957edcaa3f58eefc831996b604565657b2daf967a88"
+"bytes": 189578,
+"sha256": "1ca626887abfac2d2afcb1056e2e75d04733941e911bf4561f93d96be89bcd6b"
 },
 {
 "path": "assets/themes/yurim/frame_m10.webp",
@@ -21868,7 +21868,7 @@
 {
 "path": "assets/themes/yurim/theme.json",
 "bytes": 3547,
-"sha256": "1204f142ed3f314d2daafa441b7eb75fdd12d02cb1e86e130abede676d35f01d"
+"sha256": "964d91baecb46e4626a5603d391fced27fa3a5f482fb0f0c0a80b89cd56e6a91"
 },
 {
 "path": "assets/themes/yurim/thumb/char_01_f.webp",
